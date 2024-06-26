@@ -1,0 +1,133 @@
+{
+
+    "jobTitle": [
+        "Aspiring Developer"
+    ],
+
+    "about": [
+        "Hi There, My name is Jamin Langeveldt and I'm on a journey to becoming a Full Stack Web Developer. I consider myself to be a very hardworking person that is goal orientated. I believe that you should chase your dreams and have fun doing it due to the fact that we only live once. My skill set allows me to adapt to any circumstance and working environment easily. I have a hunger for gaining experience and remain dedicated in everything I do."
+    ],
+
+    "certifications": [
+        { 
+        "FSP Certification & Psychological Awards": "Mango 5-Dotsure , 2021-2022",
+        "Full-Stack Web Development Certification": "Udemy College, 2021-2024",
+        "Bachlor's Pass: Matric": "Alexander Sinton High, 2016-2021",
+        "Currently Enrolling At Life Choices": "LifeChoices College, 2024-2025"
+    }
+    ],
+
+    "experiences": [
+        {
+
+        }
+    ],
+
+    "skills": [
+        {
+            "HTML":"Intermediate Level, I have a good understanding of HTML tags, attributes, and elements. I know how to structure a webpage using HTML. I am comfortable with what I know but also aware that there's much more to learn. I am actively learning and experimenting with new features and techniques where HTML is concerned.",
+            "CSS": "Intermediate Level, I have a good understanding of CSS selectors, properties, and values. I know how to style HTML elements using CSS and I am familiar with different layout techniques like Flexbox, CSS Grid, and positioning. I can create complex layouts using these techniques.",
+            "BOOTSTRAP":"Advanced Level, I have a deep understanding of Bootstrap's components and utilities, and I can use them to build responsive, mobile-first projects on the web. I am proficient in using Bootstrap's CSS classes and components, such as navigation bars, forms, buttons, modals, and carousels. I can customize these components to fit the specific needs of a project, enhancing the user interface and user experience.",
+            "JAVASCRIPT":"Beginner Level, I understand the basic syntax of JavaScript, such as variables, data types, operators, and control structures (like if-else statements and loops). I know how to declare and call functions. I understand the concept of function parameters and return values.",
+            "UI/UX DESIGN":"Advanced Level, I have a deep understanding of user-centered design principles and a keen eye for aesthetics. I excel at creating intuitive, engaging, and visually appealing interfaces that enhance user experience and drive user engagement. My proficiency extends to various design tools and platforms, including Photoshop, Canva, and Figma. These tools have been instrumental in my design process, allowing me to create high-fidelity prototypes, design systems, and interactive user interfaces. My ability to leverage these tools effectively sets me apart as an advanced designer.",
+            "GIT/GITHUB":"Advanced Level, As an advanced GitHub user I actively contribute to repositories, whether through code, documentation, or issue triage.I engage in discussions, provide clear feedback, and collaborate with other developers. My Git skills are top-notch and I commit, branch, and merge with confidence and Isupport the open-source community by sharing my knowledge and expertise.",
+            "CLI":"Advanced Level, I’ve honed my skills through experience and practice. I appreciate the command prompt’s efficiency, scripting capabilities, and flexibility. Whether it’s navigating directories, automating tasks, managing remote systems, or troubleshooting issues, I rely on the command line. My proficiency reflects expertise in streamlining tasks, automating processes, and navigating complex systems.",
+            "VUE":"Beginner Level, As a beginner in Vue.js, I am new to the framework and its concepts. I am exploring basic features, learning about components, and getting acquainted with Vue’s reactive data binding. Through trial and error I believe I'll become proficient in vue js."
+        }
+    ],
+
+    "testimonials": [
+        {
+            "Person1": {
+                "img":"https://joshua-langeveldt.github.io/images/images/People/leah.png",
+                "name":"Leah Basson",
+                "testi":"Working with Jamin has been an absolute pleasure. He is dedicated, creative, and has a positive attitude. Jamin is able to brainstorm ideas, tackle challenges and deliver top-notch results. His consistently goes above and beyond. He is very passionate about what he does , you'll even see him have little celebrations once his achieved his goal and I feel fortunate to have Jamin as a friend and colleague. I wholeheartedly recommend him to anyone seeking a talented and reliable partner."
+            },
+
+            "Person2": {
+                "img": "https://joshua-langeveldt.github.io/images/images/People/nasheeta.jpg",
+                "name": "Nasheeta Jacobs",
+                "testi":"Jamin is not only a talented coder but also a genuinely good-hearted individual. His dedication to mastering coding languages is inspiring, and his willingness to help others along the way speaks volumes about his character. With Jamin on your team, you're not just getting a skilled programmer, you're gaining a supportive and compassionate colleague who goes above and beyond to make a positive impact."
+            },
+
+            "Person3": {
+                "img": "https://joshua-langeveldt.github.io/images/images/People/kayden.jpg",
+                "name": "Kayden Hendricks",
+                "testi": "Working alongside Jamin has been an absolute privilege. His wisdom shines through every decision he makes, showing a deep understanding of the task at hand and an unparalleled level of diligence. His hard work is not only commendable but also inspiring, as he consistently go above and beyond to ensure success in every endeavor. Jamin is not just a colleague, he is a role model for dedication and excellence."
+            },
+
+            "Person4": {
+                "img": "https://joshua-langeveldt.github.io/images/images/People/joel2.jpg",
+                "name":"Joel Mukanya",
+                "testi": "Jamin is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate and developer."
+            },
+
+            "Person5": {
+                "img": "https://joshua-langeveldt.github.io/images/images/People/keenan.jpg",
+                "name": "Keenan Timmie",
+                "testi":"Jamin is a hard-working determined worker who not only does what is needed but he goes the extra mile. With his nuanced attention to detail and high skill set, I'm 100% sure any employer would be more than happy to have him."
+            }
+        }
+    ],
+
+    "projects": [
+        {
+            "Project1": {
+                "img": "https://joshua-langeveldt.github.io/images/images/Projects/tin_dog .jpg",
+                "title": "Tindog",
+                "description": "A Tinder For Dogs",
+                "project_url":"https://tin-dog-20b22c.netlify.app"
+            },
+
+            "Project2": {
+                "img": "https://joshua-langeveldt.github.io/images/images/Projects/dicce-game.png",
+                "title": "DicceGame",
+                "description": "Quick Decision Making Game",
+                "project_url":"https://dicce-game-03a2fd.netlify.app"
+            },
+
+            "Project3": {
+                "img": "https://joshua-langeveldt.github.io/images/images/Projects/drum_kit.jpg",
+                "title": "DrumKit",
+                "description": "A Sweet Beat Maker",
+                "project_url": "https://the-drum-kit-20e7f1e.netlify.app"
+            },
+
+            "Project4": {
+                "img": "https://joshua-langeveldt.github.io/images/images/Projects/git_repo.jpg",
+                "title": "GitHubRepo",
+                "description": "My Repositories",
+                "project_url": "https://github.com/King20Jamin"
+            },
+
+            "Project5": {
+                "img": "https://joshua-langeveldt.github.io/images/images/Projects/virtual-keyboard.png",
+                "title": "Virtual Keyboard",
+                "description": "Keyboard For Developers",
+                "project_url": "https://keyboard-j-edition-pinojursc-jamin-joshua-langeveldts-projects.vercel.app/"
+            },
+
+            "Project6": {
+                "img": "https://joshua-langeveldt.github.io/images/images/Projects/calculator.png",
+                "title": "Calculator",
+                "description": "A Simple Calculator",
+                "project_url": "https://calculator-j-edit-g1ethdcf7-jamin-joshua-langeveldts-projects.vercel.app/"
+            },
+
+            "Project7": {
+                "img": "",
+                "title": "Joshua's Porfolio",
+                "description": "Legend$ Never Die",
+                "project_url": "https://joshua-portfolio-five.vercel.app/"
+            },
+
+            "Project8": {
+                "img": "",
+                "title": "Choc-A-Lot",
+                "description": "A Sweet Shop",
+                "project_url": "https://choco-a-lot.vercel.app/"
+            }
+
+        }
+    ]
+}
