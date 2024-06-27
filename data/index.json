@@ -4,6 +4,15 @@
         "Aspiring Developer"
     ],
 
+        "personalInfo": [ 
+         {
+      "name": "Joshua Langeveldt",
+      "email": "langeveldt20joshua@gmail.com",
+      "location": "Cape Town, South Africa",
+      "bio": "Legend$ Never Die"
+    }
+],
+
     "about": [
         "Hi There, My name is Jamin Langeveldt and I'm on a journey to becoming a Full Stack Web Developer. I consider myself to be a very hardworking person that is goal orientated. I believe that you should chase your dreams and have fun doing it due to the fact that we only live once. My skill set allows me to adapt to any circumstance and working environment easily. I have a hunger for gaining experience and remain dedicated in everything I do."
     ],
@@ -18,9 +27,11 @@
     ],
 
     "experiences": [
-        {
-
-        }
+      {
+        "position": "Sales Agent",
+        "company": "Mango5",
+        "duration": "12 months"
+      }
     ],
 
     "skills": [
